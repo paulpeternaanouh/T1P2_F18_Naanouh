@@ -1,0 +1,11 @@
+commit 73bf0df757cf535c4d8afb0e8ba14a2fffac1e35
+Author: paulpeter naanouh <pnaanouh@gmail.com>
+Date:   Thu Mar 7 10:38:59 2019 +0200
+
+    added script4.sh
+
+commit 79a24c6f1fbfb1667a5d1ba927914bb5c81fa73a
+Author: paulpeter naanouh <pnaanouh@gmail.com>
+Date:   Thu Mar 7 10:25:54 2019 +0200
+
+    added script1,2,and 3
