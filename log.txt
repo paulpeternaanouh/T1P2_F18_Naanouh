@@ -1,3 +1,15 @@
+commit 6d5e6f746281cdd9b67146b41a31b7b09ef66650
+Author: paulpeter naanouh <pnaanouh@gmail.com>
+Date:   Tue Mar 12 09:40:16 2019 +0200
+
+    fixed mistake
+
+commit 3c1cfd69c058cc753dc469b0539d477424753205
+Author: paulpeter naanouh <pnaanouh@gmail.com>
+Date:   Thu Mar 7 10:40:53 2019 +0200
+
+    added log.txt
+
 commit 73bf0df757cf535c4d8afb0e8ba14a2fffac1e35
 Author: paulpeter naanouh <pnaanouh@gmail.com>
 Date:   Thu Mar 7 10:38:59 2019 +0200
